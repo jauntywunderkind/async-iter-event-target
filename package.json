@@ -1,0 +1,21 @@
+{
+	"name": "async-iter-event-target",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.eldergods.com/async-iter-event-target"
+	},
+	"keywords": [],
+	"author": "jauntywunderkind",
+	"license": "MIT",
+	"module": "async-iter-event-target.js",
+	"esm": true,
+	"dependencies": {
+		"event-target-shim": "^5.0.1"
+	}
+}
